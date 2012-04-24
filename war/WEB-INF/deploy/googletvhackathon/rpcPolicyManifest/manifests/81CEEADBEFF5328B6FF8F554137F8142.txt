@@ -1,0 +1,2 @@
+serviceClass: org.dreborier.client.PonganConsoleRegistrationService
+path: 6556C37D66E13557C685C9FE60CA2D93.gwt.rpc
