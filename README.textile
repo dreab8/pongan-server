@@ -1,4 +1,4 @@
-h1. Pgngan : Server
+h1. Pogngan : Server
 
 This project is one of the three projects made for the Global Google Tv Hackathon London
 The overall idea of the project is a modern version of Loren Carpenter’s crowd experiment
